@@ -1,0 +1,28 @@
+#
+member_file_location;./new_member_file.csv
+summary_file_location;./most_recent_summary.html
+#
+# Fields for formatting the web pages
+web_page_title_prefix;NEOC Point Series
+web_summary_stylesheet;ptsSeries.css
+web_summary_title_prefix;NEOC Points Series
+web_summary_results_banner;ptsHdr2
+web_summary_results_class_white;ptsTTitle ptsTTitleW
+web_summary_results_class_yellow;ptsTTitle ptsTTitleY
+web_summary_results_class_orange;ptsTTitle ptsTTitleO
+web_summary_results_class_brown;ptsTTitle ptsTTitleB
+web_summary_results_class_tan;ptsTTitle ptsTTitleT
+web_summary_results_class_green;ptsTTitle ptsTTitleG
+web_summary_results_class_red;ptsTTitle ptsTTitleR
+web_summary_results_class_blue;ptsTTitle ptsTTitleBl
+web_summary_results_class_row_even;ptsEven
+web_summary_results_class_row_odd;ptsOdd
+
+web_summary_results_individual_name;ptsTTitle PtsTTitleW
+web_summary_results_individual_row_even;ptsEven
+web_summary_results_individual_row_odd;ptsOdd
+web_summary_results_individual_total;ptsTotrow
+
+web_summary_results_event_name;ptsHdr2
+web_summary_results_event_row_even;ptsEven
+web_summary_results_event_row_odd;ptsOdd
